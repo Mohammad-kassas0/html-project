@@ -1,0 +1,9 @@
+<html>
+    <body>
+        <h1 id="type" type= 'Name'>Name:</h1>  <input id="type" type="name">
+        <h2>Date:</h2>
+        <input id="type" type="date">
+        <script>
+        </script>     
+        </body>
+        </html>
